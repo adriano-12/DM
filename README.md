@@ -1,5 +1,5 @@
 # Projeto Data Mining
-Este é um trabalho da disciplina Tópicos Especiais em Inteligência Artificial;
+Este é um trabalho da disciplina Tópicos Especiais em Inteligência Artificial na Universidade Federal de Itajubá (UNIFEI);
 
 Feito por Adriano Lucas Ferreira, Antônio Gomes Xavier de Moura e Gustavo Kiyoshi Sousa Noda.
 
