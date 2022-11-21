@@ -7,4 +7,6 @@ Neste projeto utilizamos da base de dados https://www.kaggle.com/datasets/sveta1
 
 Posteriormente, adicionamos a base de dados https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2022, de forma a procurar quais músicas da base inicial também fizeram sucesso no Tik Tok (o arquivo foi baixado no dia 14/11/2022).
 
+Por fim, o arquivo chamado 'datamining' é o Data Frame persistido no banco de dados Postegree.
+
 Para mais informações sinta-se a vontade de explorar os computadores que criamos no Google colab. :)
